@@ -1,0 +1,33 @@
+body{
+    background-image: url(cakecup.jpg);
+    background-repeat: no-repeat;
+    background-size: 2000px 1000px;
+}
+form{
+    border: solid;
+    width:300px;
+    margin-left: 1500px;
+    margin-top: 50px;
+    background-color: black;
+}
+h1{
+    color:blanchedalmond;
+    text-align: center;
+}
+label{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+input{
+    height: 20px;
+    width: 220px;
+    border-radius: 20px;
+}
+button{
+    height: 40px;
+    width: 130px;
+    background-color: burlywood;
+    border-radius: 20px;
+    color:black;
+}
